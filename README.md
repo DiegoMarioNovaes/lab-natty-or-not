@@ -1,10 +1,13 @@
 Natural ou falso Natty? Como Vencer na Era das IAs Generativas
+
 🚀 Introdução
+
 Uau! Olha só isso 👀
 
 Olá pessoal, Diego Aluno da DIO aqui! Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 🎯Bora Pro Desafio!? Você Já Venceu 💪🤓
+
 Objetivos
 Explorar IAs Generativas : Utilize essas tecnologias para criar conteúdos que sejam o mais realistas possíveis. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou modificações de tudo isso!
 Portfólio de Projetos :
