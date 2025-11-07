@@ -1,8 +1,8 @@
-A Jornada da IA: Um Passeio pelo Futuro 🌌
+A Era da Inteligencia Artificial 🌌
 
 📒 Descrição
 
-Este Audiobook de 4 minutos explora a Era revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este Audiobook de 4 minutos explora a Era revolucionária das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 🤖 Tecnologias Utilizadas
 
@@ -13,6 +13,7 @@ IA Generativa ElevenLabs para criação do Audiobook;
 🧐 Processo de criação
 
 Utilizei o "ChatGPT" para criar um livro sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "ElevenLabs" foi usado para gerar o Audiobook.
+
 🚀 Resultados
 
 O Audiobook apresenta um conteúdo envolvente e rico em ensinamentos, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
