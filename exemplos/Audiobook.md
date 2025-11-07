@@ -17,7 +17,7 @@ Utilizei o "ChatGPT" para criar um livro sobre IAs Generativas, estruturar o con
 
 O Audiobook apresenta um conteúdo envolvente e rico em ensinamentos, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI](https://1drv.ms/f/c/a11573468d30f5ee/EtF7S572F01IvVEXG6PanrkBZ2wEnQ7UViJf2tEm71IxvQ?e=oJJLfb)
+[LINK PARA O AUDIOBOOK AQUI](https://1drv.ms/f/c/a11573468d30f5ee/EtF7S572F01IvVEXG6PanrkBZ2wEnQ7UViJf2tEm71IxvQ?e=oJJLfb)
 
 💭 Reflexão
 
