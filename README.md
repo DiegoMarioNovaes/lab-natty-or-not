@@ -1,31 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Natural ou falso Natty? Como Vencer na Era das IAs Generativas
+🚀 Introdução
+Uau! Olha só isso 👀
 
-## 🚀 Introdução
+Olá pessoal, Diego Aluno da DIO aqui! Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Diego aluno da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-
-Audio book A era da Inteligencia Artificial. Fake or Natty descubra você mesmo.
-
-Projeto criado com base nos ensinamentos do professor Venilton utilizando IAs Generativas.
-
-ChatGPT e ElevenLabs
-
-Pensei em criar um projeto focado mais na escrita e leitura, mas lembrei que tem a possibilidade de fazer audiosbooks através da plataforma ElevenLabs e acabei tulizando da ferramenta.
-
-
-
-Um desafio muito legal e interessante que me fez conhecer bastantes ferramentas que as IAs nos fornece, me prendeu bastante no projeto e abriu minha mente sobre o mundo de IAs Generativas.
+🎯Bora Pro Desafio!? Você Já Venceu 💪🤓
+Objetivos
+Explorar IAs Generativas : Utilize essas tecnologias para criar conteúdos que sejam o mais realistas possíveis. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou modificações de tudo isso!
+Portfólio de Projetos :
+Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
+Edite seu README com os detalhes do seu projeto, siga nosso Template (é apenas copiar, colar e preencher);
+Submeta o link do seu repositório na plataforma do DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
+Efeito de Rede : Compartilhe seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot . Não esqueça de nos marcar: DIO e falvojr .
 
 
 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [AudioBook](/exemplos/Audiobook.md)
+
 
 
